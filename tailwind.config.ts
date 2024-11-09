@@ -8,7 +8,10 @@ export default {
   ],
   theme: {
     extend: {
-      
+      backgroundImage: {
+        'logTalbites': "url('./src/assets/logTalBites.png')",
+        'food-image': "url('./src/assets/foodimage.jpg')",
+      },
         
     },
   },

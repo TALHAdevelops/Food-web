@@ -5,7 +5,7 @@ export default function Hero() {
   return (    
 <div className='max-w-[1600px] mx-auto grid sm:grid-cols-2 sm:h-[500px] gap-3'>
 
-<div className='bg-food-image-2 bg-cover bg-center top-0 w-full flex flex-col justify-center text-center text-white-p-4 h-[300px] sm:h-full'>
+<div className='bg-logTalbites bg-cover bg-center top-0 w-full flex flex-col justify-center text-center text-white-p-4 h-[300px] sm:h-full'>
 <div className='bg-white rounded-xl w-[300px] md:w-[600px] mx-auto grid grid-cols-10 p-4'>
   <form className='border border-gray-300 shadow-xl col-span-7 sm:col-span-8 flex justify-between items-center max-w-[600px] mx-auto w-full p-1 rounded-md text-black bg-gray-100/90'>
     <input className='ml-4 bg-transparent focus:outline-none' type='text' placeholder='Type your location...'/>

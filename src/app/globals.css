@@ -24,9 +24,3 @@ body {
 .bg-primary-color {
   @apply bg-gradient-to-l from-orange-800 to-orange-500;
 }
-.bg-food-image{
-  background-image: url(./assets/logTalBites.png);
-}
-.bg-food-image-2{
-  background-image: url(./assets/bgfood.png);
-}
